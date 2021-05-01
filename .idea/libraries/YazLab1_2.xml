@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="YazLab1_2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/YazLab1_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
